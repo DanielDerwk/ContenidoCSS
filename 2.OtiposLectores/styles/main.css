@@ -1,0 +1,30 @@
+h1{
+    color: darkred;
+    background-color: bisque;
+    text-align:center;
+    padding: 10px;
+    margin: 10px;
+}
+
+h2{
+    /*
+    Es un lenguaje aliado a html que nos permite formatear de una manera agradable al ojo humano, los documentos HTML, es decir que es un lenguaje de estilos para documentos HTML
+    */
+
+    color: rebeccapurple; 
+    background-color: darkgray;
+    text-align: center;
+}
+/*Selector por clase "." */
+.articulo1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: bisque;
+    padding: 0px 0px 10px 20px;
+}
+ /* Selector por id "#" */
+
+ #segundoparrafo{
+    border-radius: 5px;
+    background-color: aquamarine;
+ }
